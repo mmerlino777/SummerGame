@@ -1,0 +1,19 @@
+**Summer Game Concepts**
+Towerfall + Lethal League with Dodge balls
+
+
+2D art
+fixed side view flat camera(no motion)
+
+3 different levels of charged throw
+1) No charge, ball goes a distance, falls with gravity, bounces a few times, ball becomes dead shortly after
+2) Medium charge, ball goes straight an even further distance before gravity acting on it, bounces off walls for more bounces, ball eventually becomes dead
+3) Heavy Charge, ball goes straight and faster, far distance before gravity acts on it, bouncing a lof off of the walls, ball eventually becomes dead.
+
+
+
+
+
+
+
+
